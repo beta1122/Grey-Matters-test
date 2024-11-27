@@ -16,7 +16,8 @@ const config: GatsbyConfig = {
         contentApiKey: '9af515c45e8344637dabca2e74'
       },
       
-    }
+    },
+    "gatsby-plugin-netlify",
   ],
 }
 
